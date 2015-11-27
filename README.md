@@ -159,4 +159,5 @@ system.wii = ua.indexOf('Wii') > -1;
 system.ps = /playstation/i.test(ua);
 ```
 
-上面简单介绍了检测呈现引擎、浏览器、平台及移动设备等的基本思路，完整的检测呈现引擎、浏览器、平台、Window操作系统、移动设备和游戏系统的代码请猛戳[这里]()。
+上面简单介绍了检测呈现引擎、浏览器、平台及移动设备等的基本思路，完整的检测呈现引擎、浏览器、平台、Window操作系统、
+移动设备和游戏系统的代码请猛戳[这里](https://github.com/baizn/client-detecting/blob/master/clientDetecting.js)。
